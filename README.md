@@ -8,3 +8,4 @@ Currently, the repo contains solutions for the below problems:
 3) [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
 4) [Reverse Integer](https://leetcode.com/problems/reverse-integer/)
 5) [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
+6) [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)
