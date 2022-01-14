@@ -7,5 +7,4 @@ Currently, the repo contains solutions for the below problems:
 2) [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
 3) [Reverse Integer](https://leetcode.com/problems/reverse-integer/)
 4) [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
-5) [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)
-6) [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)
+5) [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)
